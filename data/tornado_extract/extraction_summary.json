@@ -1,0 +1,50 @@
+{
+  "extracted_at_utc": "2026-09-26T15:29:34.753976+00:00",
+  "period": "1950\u20132025",
+  "counts": {
+    "details": 80318,
+    "fatalities": 2826,
+    "locations": 72146
+  },
+  "unique_event_ids": 80318,
+  "duplicate_event_ids": 0,
+  "ratings": {
+    "F3": 2897,
+    "F1": 16923,
+    "F2": 9026,
+    "F0": 20742,
+    "F4": 999,
+    "(blank)": 1971,
+    "F5": 124,
+    "EF0": 12741,
+    "EF2": 2650,
+    "EF1": 9752,
+    "EF3": 707,
+    "EF4": 143,
+    "EF5": 15,
+    "EFU": 1628
+  },
+  "totals": {
+    "all_event_rows": 2012975,
+    "tornado_event_rows": 80318,
+    "f_ef1_plus_rows": 43236,
+    "unknown_rating_rows": 3599,
+    "missing_or_invalid_begin_point_rows": 1176,
+    "missing_or_invalid_end_point_rows": 25933,
+    "blank_episode_id_rows": 37543,
+    "direct_deaths_reported": 6349,
+    "direct_injuries_reported": 99284,
+    "locations_rows": 72146,
+    "events_with_locations": 42761,
+    "fatalities_rows": 2826,
+    "events_with_fatalities": 1326,
+    "direct_fatality_reconciliation_mismatch_events": 573,
+    "detail_year_mismatch_rows": 0
+  },
+  "columns": {
+    "details": 53,
+    "fatalities": 12,
+    "locations": 13
+  },
+  "source_compressed_bytes": 346978520
+}

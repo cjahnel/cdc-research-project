@@ -1,0 +1,11 @@
+{
+  "fatality_id_reuse_across_events": 4,
+  "fatalities_duplicate_keys": 0,
+  "fatalities_orphan_rows": 0,
+  "locations_duplicate_keys": 0,
+  "locations_orphan_rows": 0,
+  "details_unique_event_ids": 80318,
+  "all_retained_rows_are_tornado": true,
+  "fatality_reconciliation_exception_events": 573,
+  "annual_detail_counts_reconcile": true
+}
