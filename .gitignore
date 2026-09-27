@@ -1,3 +1,10 @@
 .env
 .venv
 .vscode
+
+# Local analysis exports and backups; publish curated inputs under data/.
+.DS_Store
+/analysis/
+/cdc.zip
+/figures/
+.ipynb_checkpoints/
